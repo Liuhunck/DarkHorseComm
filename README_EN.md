@@ -2,6 +2,19 @@
 
 DarkHorse Community: A full on-chain order book DEX built for the Pharos network. Submitted for the Order Book DEX track of GWDC2026.
 
+<p align="center">
+    <img src="dhc.jpg" alt="DarkHorse" width="180" />
+</p>
+
+<p align="center">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-Contracts-3C3C3D?style=flat-square&logo=solidity" />
+    <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-Build-3C3C3D?style=flat-square&logo=hardhat" />
+    <img alt="Vue 3" src="https://img.shields.io/badge/Vue-3-3C3C3D?style=flat-square&logo=vuedotjs" />
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-Frontend-3C3C3D?style=flat-square&logo=vite" />
+    <img alt="ethers.js" src="https://img.shields.io/badge/ethers.js-Web3-3C3C3D?style=flat-square&logo=ethereum" />
+    <img alt="Git submodules" src="https://img.shields.io/badge/Git-Submodules-3C3C3D?style=flat-square&logo=git" />
+</p>
+
 [中文版本 / Chinese Version](README.md)
 
 ## Project Overview

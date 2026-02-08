@@ -3,7 +3,7 @@
 DarkHorse Community: A full on-chain order book DEX built for the Pharos network. Submitted for the Order Book DEX track of GWDC2026.
 
 <p align="center">
-    <img src="dex/frontend/src/assets/brand/dhc.jpg" alt="DarkHorse" width="180" />
+    <img src="dhc.jpg" alt="DarkHorse" width="180" />
 </p>
 
 <p align="center">
