@@ -2,6 +2,8 @@
 
 DarkHorse Community: A full on-chain order book DEX built for the Pharos network. Submitted for the Order Book DEX track of GWDC2026.
 
+[English Version / 英文版](README_EN.md)
+
 ## 项目简介
 
 本仓库是 **DarkHorse Community / DarkHorse DEX** 的主入口，用于聚合链上合约与前端子项目（通过 Git submodule 引入）。

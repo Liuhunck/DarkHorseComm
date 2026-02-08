@@ -5,7 +5,7 @@
 ## 目录
 
 - [contracts 接口文档](contracts/MultiBaseOrderBookDEXVaultLevels.md)
-- [Community（MemeHub）页面与路由](community/ROUTES.md)
+- [Community 页面与路由](community/ROUTES.md)
 - [DEX 前端页面说明](dex/PAGES.md)
 
 ## Community ↔ DEX 互相跳转说明
