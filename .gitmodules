@@ -1,0 +1,16 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/Liuhunck/PharosDex.git
+	branch = main
+[submodule "community"]
+	path = community
+	url = https://github.com/qinyh10300/MemeHub.git
+	branch = concat
+[submodule "dex"]
+	path = dex
+	url = https://github.com/Yyhhh6/GWDC2026_Dex.git
+	branch = all
+[submodule "test"]
+	path = test
+	url = https://github.com/Liuhunck/PharosDex.git
+	branch = qyh
