@@ -30,6 +30,7 @@ More detailed documentation:
 
 - Overview: [docs/README.md](docs/README.md)
 - Contract API: [docs/contracts/MultiBaseOrderBookDEXVaultLevels.md](docs/contracts/MultiBaseOrderBookDEXVaultLevels.md)
+- Contract parallelism notes: [docs/contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md](docs/contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md)
 - Community routes & pages: [docs/community/ROUTES.md](docs/community/ROUTES.md)
 - DEX pages: [docs/dex/PAGES.md](docs/dex/PAGES.md)
 
