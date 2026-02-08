@@ -22,6 +22,15 @@ DarkHorse Community: A full on-chain order book DEX built for the Pharos network
 - **community**：**DarkHorse Community** 前端代码。
 - **dex**：**DarkHorse DEX** 前端代码。
 
+## 文档（Docs）
+
+更多合约与前端说明请看：
+
+- 总览：[`docs/README.md`](docs/README.md)
+- 合约接口文档：[`docs/contracts/MultiBaseOrderBookDEXVaultLevels.md`](docs/contracts/MultiBaseOrderBookDEXVaultLevels.md)
+- Community 路由与页面：[`docs/community/ROUTES.md`](docs/community/ROUTES.md)
+- DEX 页面说明：[`docs/dex/PAGES.md`](docs/dex/PAGES.md)
+
 ## 技术栈说明
 
 - **智能合约**：Solidity + Hardhat（包含部署/verify 脚本）
