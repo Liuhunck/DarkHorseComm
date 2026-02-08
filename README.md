@@ -31,6 +31,7 @@ DarkHorse Community: A full on-chain order book DEX built for the Pharos network
 - 总览：[`docs/README.md`](docs/README.md)
 - 合约接口文档：[`docs/contracts/MultiBaseOrderBookDEXVaultLevels.md`](docs/contracts/MultiBaseOrderBookDEXVaultLevels.md)
 - 合约并行优化说明：[`docs/contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md`](docs/contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md)
+- 合约测试与覆盖率：[`docs/contracts/TestingAndCoverage.md`](docs/contracts/TestingAndCoverage.md)
 - Community 路由与页面：[`docs/community/ROUTES.md`](docs/community/ROUTES.md)
 - DEX 页面说明：[`docs/dex/PAGES.md`](docs/dex/PAGES.md)
 

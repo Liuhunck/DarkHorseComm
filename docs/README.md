@@ -6,6 +6,7 @@
 
 - [contracts 接口文档](contracts/MultiBaseOrderBookDEXVaultLevels.md)
 - [contracts 并行优化说明](contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md)
+- [contracts 测试与覆盖率](contracts/TestingAndCoverage.md)
 - [Community 页面与路由](community/ROUTES.md)
 - [DEX 前端页面说明](dex/PAGES.md)
 
