@@ -2,6 +2,19 @@
 
 DarkHorse Community: A full on-chain order book DEX built for the Pharos network. Submitted for the Order Book DEX track of GWDC2026.
 
+<p align="center">
+    <img src="dex/frontend/src/assets/brand/dhc.jpg" alt="DarkHorse" width="180" />
+</p>
+
+<p align="center">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-Contracts-3C3C3D?style=flat-square&logo=solidity" />
+    <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-Build-3C3C3D?style=flat-square&logo=hardhat" />
+    <img alt="Vue 3" src="https://img.shields.io/badge/Vue-3-3C3C3D?style=flat-square&logo=vuedotjs" />
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-Frontend-3C3C3D?style=flat-square&logo=vite" />
+    <img alt="ethers.js" src="https://img.shields.io/badge/ethers.js-Web3-3C3C3D?style=flat-square&logo=ethereum" />
+    <img alt="Git submodules" src="https://img.shields.io/badge/Git-Submodules-3C3C3D?style=flat-square&logo=git" />
+</p>
+
 [English Version / 英文版](README_EN.md)
 
 ## 项目简介
@@ -31,6 +44,7 @@ DarkHorse Community: A full on-chain order book DEX built for the Pharos network
 - 总览：[`docs/README.md`](docs/README.md)
 - 合约接口文档：[`docs/contracts/MultiBaseOrderBookDEXVaultLevels.md`](docs/contracts/MultiBaseOrderBookDEXVaultLevels.md)
 - 合约并行优化说明：[`docs/contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md`](docs/contracts/MultiBaseOrderBookDEXVaultLevels.parallelism.md)
+- 合约审计报告（AI）：[`docs/contracts/AuditReport-MultiBaseOrderBookDEXVaultLevels.md`](docs/contracts/AuditReport-MultiBaseOrderBookDEXVaultLevels.md)
 - 合约测试与覆盖率：[`docs/contracts/TestingAndCoverage.md`](docs/contracts/TestingAndCoverage.md)
 - Community 路由与页面：[`docs/community/ROUTES.md`](docs/community/ROUTES.md)
 - DEX 页面说明：[`docs/dex/PAGES.md`](docs/dex/PAGES.md)
