@@ -66,7 +66,7 @@ DarkHorse Community: A full on-chain order book DEX built for the Pharos network
 ### 1) 克隆并拉取 submodules
 
 ```bash
-git clone --recurse-submodules <THIS_REPO_URL>
+git clone --recurse-submodules https://github.com/Liuhunck/DarkHorseComm.git
 cd DarkHorseComm
 ```
 
@@ -139,10 +139,21 @@ npm test
 
 ### 部署到 Pharos Atlantic（示例：按价位分桶订单簿合约）
 
+Bash / macOS / Linux：
+
 ```bash
 cd contracts
-set PHAROS_ATLANTIC_URL=<YOUR_RPC_URL>
-set TEST_ACCOUNT_0=<YOUR_PRIVATE_KEY>
+export PHAROS_ATLANTIC_URL=<YOUR_RPC_URL>
+export TEST_ACCOUNT_0=<YOUR_PRIVATE_KEY>
+npm run deploy:orderbook:levels -- --quote <QUOTE_TOKEN_ADDRESS>
+```
+
+PowerShell（Windows）：
+
+```powershell
+cd contracts
+$env:PHAROS_ATLANTIC_URL = "<YOUR_RPC_URL>"
+$env:TEST_ACCOUNT_0 = "<YOUR_PRIVATE_KEY>"
 npm run deploy:orderbook:levels -- --quote <QUOTE_TOKEN_ADDRESS>
 ```
 

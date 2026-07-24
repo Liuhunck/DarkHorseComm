@@ -66,7 +66,7 @@ Prerequisites: **Git** + **Node.js** (recommended Node 20+; `dex/frontend` decla
 ### 1) Clone with submodules
 
 ```bash
-git clone --recurse-submodules <THIS_REPO_URL>
+git clone --recurse-submodules https://github.com/Liuhunck/DarkHorseComm.git
 cd DarkHorseComm
 ```
 
